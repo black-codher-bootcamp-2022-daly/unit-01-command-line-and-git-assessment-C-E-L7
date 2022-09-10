@@ -5,7 +5,7 @@ For your unit 1 assessment you are required to create a Github profile. Run thro
 ## Assessment Steps
 
 1. Clone this repo to your working environment
-1. Open a terminal window and check you are in the main directory of your repository. 
+1. Open a terminal window and check you are in the main directory of your repository.
 1. Create a file called `PROFILE.md`.
 1. Create a directory called `images`.
 1. Download a photo of yourself (or an avatar of your choice), rename it to `avatar.[jpg/gif/png]` and move it into the `images` directory.
@@ -32,5 +32,3 @@ Your final repository should contain the following files and directories:
 ## How to submit
 
 Commit all created files and folders to the repo and push to your remote repo for assessment.
-
-
