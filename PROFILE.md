@@ -1,5 +1,7 @@
 # Carrera L.
 
+![Silhouette of Carrera](images/avatar.jpg)
+
 ## <u>Bio</u>
 
 Hello👋 thank you for taking the time to read my profile page. I am currently studying at Black Codher to become a full-stack developer. Once I complete my studies, my next step is obtaining a technical role in the tech industry as a full-stack developer so I can develop my technical knowledge, skills and experience further within a professional environment.
